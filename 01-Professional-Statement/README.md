@@ -28,3 +28,11 @@ My goal is to become a cybersecurity professional who helps organizations streng
 - Risk awareness
 - Documentation and reporting
 - Continuous learning mindset
+
+---
+
+## Key Takeaways
+
+This project reflects my commitment to building a career in cybersecurity and developing both technical and professional skills through continuous learning.
+
+  
